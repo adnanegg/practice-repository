@@ -1,2 +1,0 @@
-#practice-repository
-Hello world!
